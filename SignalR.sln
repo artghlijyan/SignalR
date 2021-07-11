@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignalR", "SignalR\SignalR.csproj", "{751CC36A-9D26-4B3F-B951-C6FE7D419EE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatClient", "ChatClient\ChatClient.csproj", "{7C994FFA-9032-412A-BB82-7BADCC174ED4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{751CC36A-9D26-4B3F-B951-C6FE7D419EE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{751CC36A-9D26-4B3F-B951-C6FE7D419EE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{751CC36A-9D26-4B3F-B951-C6FE7D419EE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{751CC36A-9D26-4B3F-B951-C6FE7D419EE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C994FFA-9032-412A-BB82-7BADCC174ED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C994FFA-9032-412A-BB82-7BADCC174ED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C994FFA-9032-412A-BB82-7BADCC174ED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C994FFA-9032-412A-BB82-7BADCC174ED4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5650F6ED-6AD2-4532-B71B-D04BEC020152}
+	EndGlobalSection
+EndGlobal
